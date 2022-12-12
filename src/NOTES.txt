@@ -1,2 +1,4 @@
 -Commit'leri birer birer yap!
 toplu halde yapma
+
+Github'dan değişiklikleri önce görmek için Fetch yap
